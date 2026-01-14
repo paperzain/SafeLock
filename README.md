@@ -19,3 +19,4 @@ SafeLock is your password detective. It inspects every character, hunts down wea
 - **Frontend:** HTML, CSS, JavaScript  
 - **Hosting:** Vercel (Serverless Python)  
 
+https://github.com/paperzain/SafeLock/blob/main/SafeLock%20Workflow%20Diagram.png
