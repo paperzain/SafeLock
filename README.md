@@ -1,16 +1,16 @@
-## SafeLock 🔐
+# SafeLock 🔐
 SafeLock is your password detective. It inspects every character, hunts down weak patterns, and reports back with a clear verdict and tips to keep your secrets safe.
 <p align="left">
 <img width="1536" height="1024" alt="SafeLock Workflow Diagram" src="https://github.com/user-attachments/assets/33b1e99d-ce71-4b20-b279-0d8d16a0315c" />
 
 </p>
 ---
-### Key Components:
+# Key Components:
 
-1. **User Access Layer**  
+## 1. User Access Layer
    Users authenticate via secure credentials or multi-factor authentication (MFA). Only authorized users can access the system.
 
-2. **Encryption Module**  
+2. *Encryption Module**  
    Sensitive data is encrypted both at rest and in transit, ensuring that even if intercepted, the data remains unreadable.
 
 3. **Access Control Engine**  
