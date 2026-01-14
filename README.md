@@ -1,7 +1,9 @@
+<img width="685" height="603" alt="logo" src="https://github.com/user-attachments/assets/0ed406c6-dd8a-4ee5-9b5e-10e4dddf65d6" />
+
 ## SafeLock 🔐
 
 SafeLock is your password detective. It inspects every character, hunts down weak patterns, and reports back with a clear verdict and tips to keep your secrets safe.
-<img width="385" height="303" alt="logo" src="https://github.com/user-attachments/assets/0ed406c6-dd8a-4ee5-9b5e-10e4dddf65d6" />
+
 
 ---
 
