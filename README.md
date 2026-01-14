@@ -1,5 +1,5 @@
 # SafeLock 🔐
-SafeLock is a password detective, analyzing every character to uncover weak patterns, common phrases, and vulnerabilities. It rates password strength, checks against compromised databases, and provides actionable tips to create strong, secure, and unguessable passwords, keeping your digital secrets safe.
+SafeLock is your ultimate password detective and security guardian. It meticulously inspects every character of your passwords, hunting down weak patterns, common phrases, and potential vulnerabilities. With advanced analysis, it evaluates password strength, checks against known compromised databases, enforces best practices, and provides actionable recommendations to enhance security. SafeLock also guides users on creating strong, unique, and unguessable credentials while maintaining usability, and logs attempts to track potential threats, making it a complete solution for protecting your sensitive accounts and digital secrets.
 <p align="left">
 <img width="1536" height="1024" alt="SafeLock Workflow Diagram" src="https://github.com/user-attachments/assets/33b1e99d-ce71-4b20-b279-0d8d16a0315c" />
 
