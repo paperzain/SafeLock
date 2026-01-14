@@ -1,7 +1,3 @@
-<p align="left">
-<img width="285" height="203" alt="logo" src="https://github.com/user-attachments/assets/0ed406c6-dd8a-4ee5-9b5e-10e4dddf65d6" />
-</p>
-
 ## SafeLock 🔐
 SafeLock is your password detective. It inspects every character, hunts down weak patterns, and reports back with a clear verdict and tips to keep your secrets safe.
 <p align="left">
@@ -9,6 +5,28 @@ SafeLock is your password detective. It inspects every character, hunts down wea
 
 </p>
 ---
+### Key Components:
+
+1. **User Access Layer**  
+   Users authenticate via secure credentials or multi-factor authentication (MFA). Only authorized users can access the system.
+
+2. **Encryption Module**  
+   Sensitive data is encrypted both at rest and in transit, ensuring that even if intercepted, the data remains unreadable.
+
+3. **Access Control Engine**  
+   Permissions are enforced based on user roles, defining who can read, write, or modify resources.
+
+4. **Audit & Logging Layer**  
+   All actions and access events are tracked to provide full visibility for compliance and forensic purposes.
+
+5. **Secure Storage / Vault**  
+   Encrypted storage houses critical data and secrets, fully protected by encryption and access controls.
+
+### Data Flow
+
+Users interact with the system through the access layer → requests are validated by the access control engine → data is encrypted/decrypted as needed → actions are logged → sensitive data is securely stored in the vault.
+
+This layered approach makes SafeLock a robust solution for protecting sensitive information while maintaining accountability and compliance. 
 
 ## ✨ Features
 
